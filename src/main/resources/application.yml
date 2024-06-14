@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: google-sheets-api
+
+  data:
+    mongodb:
+      host: localhost
+      port: 27020
+      database: abi-dubai-db
