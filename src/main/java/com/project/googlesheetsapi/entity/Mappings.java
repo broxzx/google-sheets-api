@@ -1,5 +1,6 @@
 package com.project.googlesheetsapi.entity;
 
+import com.google.api.services.sheets.v4.model.Sheet;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
